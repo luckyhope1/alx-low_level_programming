@@ -3,7 +3,7 @@
 /**
  * _abs - computer the absolute value of an integer
  * @t: the integer to be computed
- * Return: The absolute value
+ * Return: the integer
  */
 int _abs(int t)
 {
