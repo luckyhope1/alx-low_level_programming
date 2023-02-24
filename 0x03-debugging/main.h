@@ -1,10 +1,11 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef MAIN_H
+#define MAIN_H
+
 #include <stdio.h>
 
 void positive_or_negative(int i);
-int largest_number(int a, int b, int c);
+int largest_number(int i);
 void print_remaining_days(int monnth, int day, int year);
 int convert_day(int month, int day);
 
-#endif
+#endif /* MAIN_H */
