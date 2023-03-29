@@ -13,7 +13,7 @@ __
 - [3-op_functions.c](https://github.com/luckyhope1/alx-low_level_programming/0x0F-function_pointers/tree/main/3-op_functions.c)
 - [3-get_op_func.c](https://github.com/luckyhope1/alx-low_level_programming/0x0F-function_pointers/tree/main/3-get_op_func.c)
 - [3-calc.h](https://github.com/luckyhope1/alx-low_level_programming/0x0F-function_pointers/tree/main/3-calc.h)
-- [100-main_opcodes.c](https://github.com/luckyhope1/alx-low_level_programming/0x0F-function_pointers/tree/main/100-main_opcodes.c)
+- [100-main_opcodes.c](https://github.com/0x0F-function_pointers/tree/main/100-main_opcodes.c)
 
 ### AUTHOR:
 <details>
