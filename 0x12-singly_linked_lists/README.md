@@ -3,8 +3,8 @@
 ----
 
 ### TASKS
-
 __
+
 
 - [0-print_list.c](0. Print list)
 - [1-list_len.c](1. List length)
@@ -30,6 +30,9 @@ __
     </ul>
 </details>
 ----
+
 ### Acknowledgements  :pray:
 ______
+
+
 All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this <a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
