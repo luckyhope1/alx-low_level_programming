@@ -29,7 +29,7 @@ typedef struct listq_s
 {
 	void *q;
 	struct listq_s *next;
-} lisitq_t;
+} listq_t;
 
 size_t print_listint(const listint_t *h);
 size_t listint_len(const listint_t *h);
