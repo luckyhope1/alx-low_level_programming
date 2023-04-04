@@ -20,16 +20,16 @@ typedef struct listint_s
 
 /**
  * struct lisptr_s - singly linked list
- * @ptr: pointers of nodes
+ * @q: pointers of nodes
  * @next: points to the next node
  *
  * Description: singly linked list of pointers
  */
-typedef struct listptr_s
+typedef struct listq_s
 {
-	void *ptr;
-	struct listptr_s *next;
-} lisptr_t;
+	void *q;
+	struct listq_s *next;
+} lisq_t;
 
 size_t print_listint(const listint_t *h);
 size_t listint_len(const listint_t *h);
