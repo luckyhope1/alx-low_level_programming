@@ -6,13 +6,13 @@
 __
 
 
-- [0-print_list.c](0. Print list)
-- [1-list_len.c](1. List length)
-- [2-add_node.c](2. Add node)
-- [3-add_node_end.c](3. Add node at the end)
-- [4-free_list.c](4. Free list)
-- [100-first.c](5. The Hare and the Tortoise)
-- [101-hello_holberton.asm](6. Real programmers can write assembly code in any language)
+- [0. Print list](0-print_list.c)
+- [1. List length](1-list_len.c)
+- [2. Add node](2-add_node.c)
+- [3. Add node at the end](3-add_node_end.c)
+- [4. Free list](4-free_list.c)
+- [5. The Hare and the Tortoise](100-first.c)
+- [6. Real programmers can write assembly code in any language](101-hello_holberton.asm)
 
 ### AUTHOR:
 <details>
@@ -31,7 +31,7 @@ __
 </details>
 ----
 
-### Acknowledgements  :pray:
+### God Above All  :pray:
 ______
 
 
